@@ -13,12 +13,6 @@ I'm Mohammad Zarabieh
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-
-🌐 Website: 
-
-💼 LinkedIn: linkedin.com/in/mohammad-zarabieh
-
-📧 Email: mhmd.zarabieh@gmail.com
 <!--
 **mhzrb/mhzrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
