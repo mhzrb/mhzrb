@@ -7,6 +7,12 @@ My core stack is **Python, Django, REST APIs, SQL, Linux, and Docker**, with add
 I'm particularly interested in **backend engineering, distributed systems, reliability, automation, and platform-oriented software**.
 
 🇳🇱 Based in the Netherlands and open to software engineering opportunities.
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 <!--
 ## Hey 👋
 
