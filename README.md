@@ -1,3 +1,13 @@
+# Hi, I'm Mohammad 👋
+
+I'm a backend focused Software Engineer with nearly six years of professional experience across software development and technical education, with the past several years focused hands-on on backend systems, APIs, automation, and data-driven applications.
+
+My core stack is **Python, Django, REST APIs, SQL, Linux, and Docker**, with additional experience in **TypeScript, React, Azure, and cloud-based applications**.
+
+I'm particularly interested in **backend engineering, distributed systems, reliability, automation, and platform-oriented software**.
+
+🇳🇱 Based in the Netherlands and open to software engineering opportunities.
+<!--
 ## Hey 👋
 
 I'm Mohammad 
