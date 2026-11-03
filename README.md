@@ -1,19 +1,22 @@
-# Hi, I'm Mohammad 👋
+# Hey there, I'm Mohammad! 
 
-I'm a backend focused Software Engineer with nearly six years of professional experience across software development and technical education, with the past several years focused hands-on on backend systems, APIs, automation, and data-driven applications.
-
-My core stack is **Python, Django, REST APIs, SQL, Linux, and Docker**, with additional experience in **TypeScript, React, Azure, and cloud-based applications**.
-
-I'm particularly interested in **backend engineering, distributed systems, reliability, automation, and platform-oriented software**.
-
-🇳🇱 Based in the Netherlands and open to software engineering opportunities.
-
+Python backend engineer in the Netherlands. Six years with Python, the last four professionally:
+I build REST APIs, backend services and automation for clients, from requirements to deployment
+and support. I'm now moving into AI engineering, building LLM-backed backend systems.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mohammad-zarabieh) · [mzarabieh.com](https://mzarabieh.com)
+
+Open to backend, platform and AI engineering roles in the Netherlands.
 <!--
 ## Hey 👋
 
