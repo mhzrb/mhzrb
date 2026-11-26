@@ -1,3 +1,28 @@
+# Hey there, I'm Mohammad!
+
+Python backend engineer in the Netherlands. Six years with Python, the last four professionally:
+I build REST APIs, backend services and automation for clients, from requirements to deployment
+and support. I also work with Java and Spring Boot, and I'm now moving into AI engineering,
+building LLM-backed backend systems.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mohammad-zarabieh) · [mzarabieh.com](https://mzarabieh.com)
+
+Open to backend, platform and AI engineering roles in the Netherlands.
+
+<!--
 # Hey there, I'm Mohammad! 
 
 Python backend engineer in the Netherlands. Six years with Python, the last four professionally:
